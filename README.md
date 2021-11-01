@@ -25,4 +25,4 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Generalisation Error](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/02_generalisation_error.ipynb)
 
 ### Part 3
-  * [Non Linear Predictors](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/03_non_linear_predictors.ipynb)
+  * [Non-Linear Predictors](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/03_non_linear_predictors.ipynb)
