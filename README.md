@@ -20,6 +20,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Perceptron](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/01_perceptron.ipynb)
   
   [22/10/21] Corrected missing bias in the 3d visualisation code
+  
   [08/11/21] Fixed 3d visualisation code for VSCode users
   
 ### Part 2
