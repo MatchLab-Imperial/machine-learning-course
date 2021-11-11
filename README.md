@@ -30,4 +30,4 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   * [Non-Linear Predictors](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/03_non_linear_predictors.ipynb)
 
 ### Part 4 (not marked)
-  * SVM
+  * [SVM](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/04_SVM.ipynb)
