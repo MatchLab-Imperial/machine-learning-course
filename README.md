@@ -17,23 +17,19 @@ We will update the repository during the course with new tutorials.
 
 ## Links to the notebooks
 Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
-### Part 1
-  * [Perceptron](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course-labs/blob/main/Lab1_ML_Perceptron.ipynb)
 
-### Part 2
-  * [Linear Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course-labs/blob/main/Lab2_ML_LinearRegression.ipynb)
-  
-### Part 3
-  * [Logistic Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course-labs/blob/main/Lab3_ML_LogisticRegression.ipynb)
+### * [Perceptron](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_Perceptron.ipynb)
 
-### Part 4
-  * TBA
+###  * [Linear Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_LinearRegression.ipynb)
+
+###  * [Non-linear Polynomial Transforms](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_non_linear_predictors.ipynb)
   
-### Part 5
-  * TBA
+### * [Logistic Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course-labs/blob/main/Lab3_ML_LogisticRegression.ipynb)
+
+### * MLP (TBA)
   
-### Part 6
-  * TBA
+### * SVM (TBA)
   
-### Part 7
-  * TBA
+### * k-NN (TBA)
+  
+### * Clustering (TBA)
