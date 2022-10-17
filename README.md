@@ -18,7 +18,7 @@ We will update the repository during the course with new tutorials.
 ## Links to the notebooks
 Sometimes the notebooks do not render correctly in GitHub. You can access directly the notebook in the Colab environment using the following links.
 
-### * [Perceptron](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_Perceptron.ipynb)
+### * [Perceptron](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_Perceptron_learning_algorithm.ipynb)
 
 ###  * [Linear Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_LinearRegression.ipynb)
 
