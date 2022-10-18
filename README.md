@@ -20,7 +20,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### * [Perceptron](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_Perceptron_learning_algorithm.ipynb)
 
-###  * [Linear Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_LinearRegression.ipynb)
+###  * [Linear Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_Linear_Regression.ipynb)
 
 ###  * [Non-linear Polynomial Transforms](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_non_linear_predictors.ipynb)
   
