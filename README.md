@@ -24,7 +24,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ###  * [Non-linear Polynomial Transforms](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_non_linear_predictors.ipynb)
   
-### * [Logistic Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_LogisticRegression.ipynb)
+### * [Logistic Regression](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_Logistic_Regression_.ipynb)
 
 ### * MLP (TBA)
   
