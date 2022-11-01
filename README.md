@@ -28,7 +28,7 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
 
 ### * [MLP](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_MLP.ipynb)
   
-### * SVM (TBA)
+### * [SVM](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_SVM_.ipynb)
   
 ### * k-NN (TBA)
   
