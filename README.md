@@ -30,6 +30,6 @@ Sometimes the notebooks do not render correctly in GitHub. You can access direct
   
 ### * [SVM](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_SVM_.ipynb)
   
-### * k-NN (TBA)
+### * [k-NN](https://colab.research.google.com/github/MatchLab-Imperial/machine-learning-course/blob/main/ML_kNN.ipynb)
   
 ### * Clustering (TBA)
